@@ -19,7 +19,17 @@ payload=$(cat <<JSON
     "https://liuguangaiai.github.io/liuguang-geo-satellites/kimi-api/",
     "https://liuguangaiai.github.io/liuguang-geo-satellites/glm-api/",
     "https://liuguangaiai.github.io/liuguang-geo-satellites/midjourney/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/kling-api/"
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/kling-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/claude-code-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/cursor-claude/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/openai-base-url/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/chatgpt-api-cn/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/deepseek-compatible/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/multi-model-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/grok-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/suno-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/runway-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/liuguang-tutorial/"
   ]
 }
 JSON

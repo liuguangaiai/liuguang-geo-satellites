@@ -48,3 +48,17 @@ Settings → Pages → Deploy from branch → `main` / `(root)`。
 ## 风险
 
 批量薄页有 doorway 风险。策略是**独立有用内容 + 官方提索引 + 站外真实外链**，不做蜘蛛池。
+
+
+## 新增高意图页（第二批）
+
+- `claude-code-api/` — Claude Code API
+- `cursor-claude/` — Cursor 接入 Claude
+- `openai-base-url/` — OpenAI Base URL
+- `chatgpt-api-cn/` — ChatGPT API 国内
+- `deepseek-compatible/` — DeepSeek 兼容
+- `multi-model-api/` — 多模型 API 聚合
+- `grok-api/` — Grok API
+- `suno-api/` — Suno / AI 音乐
+- `runway-api/` — Runway / AI 视频
+- `liuguang-tutorial/` — 流光AI 教程中心
