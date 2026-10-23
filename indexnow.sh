@@ -9,10 +9,17 @@ payload=$(cat <<JSON
   "key": "${KEY}",
   "keyLocation": "${BASE}/${KEY}.txt",
   "urlList": [
-    "${BASE}/",
-    "${BASE}/claude-api/",
-    "${BASE}/openai-compatible/",
-    "${BASE}/cursor-api/"
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/claude-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/openai-compatible/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/cursor-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/gpt-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/deepseek-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/gemini-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/kimi-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/glm-api/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/midjourney/",
+    "https://liuguangaiai.github.io/liuguang-geo-satellites/kling-api/"
   ]
 }
 JSON
