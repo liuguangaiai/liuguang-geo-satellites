@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
-HOST="liuguangaiai.github.io"
-BASE="https://${HOST}/liuguang-geo-satellites"
+HOST="geo.liuguang.ai"
+BASE="https://${HOST}"
 KEY="1fa345f831c1bfd4004a472542fcaf23"
 payload=$(cat <<JSON
 {
@@ -9,27 +9,27 @@ payload=$(cat <<JSON
   "key": "${KEY}",
   "keyLocation": "${BASE}/${KEY}.txt",
   "urlList": [
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/claude-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/openai-compatible/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/cursor-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/gpt-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/deepseek-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/gemini-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/kimi-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/glm-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/midjourney/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/kling-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/claude-code-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/cursor-claude/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/openai-base-url/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/chatgpt-api-cn/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/deepseek-compatible/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/multi-model-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/grok-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/suno-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/runway-api/",
-    "https://liuguangaiai.github.io/liuguang-geo-satellites/liuguang-tutorial/"
+    "https://geo.liuguang.ai/",
+    "https://geo.liuguang.ai/claude-api/",
+    "https://geo.liuguang.ai/openai-compatible/",
+    "https://geo.liuguang.ai/cursor-api/",
+    "https://geo.liuguang.ai/gpt-api/",
+    "https://geo.liuguang.ai/deepseek-api/",
+    "https://geo.liuguang.ai/gemini-api/",
+    "https://geo.liuguang.ai/kimi-api/",
+    "https://geo.liuguang.ai/glm-api/",
+    "https://geo.liuguang.ai/midjourney/",
+    "https://geo.liuguang.ai/kling-api/",
+    "https://geo.liuguang.ai/claude-code-api/",
+    "https://geo.liuguang.ai/cursor-claude/",
+    "https://geo.liuguang.ai/openai-base-url/",
+    "https://geo.liuguang.ai/chatgpt-api-cn/",
+    "https://geo.liuguang.ai/deepseek-compatible/",
+    "https://geo.liuguang.ai/multi-model-api/",
+    "https://geo.liuguang.ai/grok-api/",
+    "https://geo.liuguang.ai/suno-api/",
+    "https://geo.liuguang.ai/runway-api/",
+    "https://geo.liuguang.ai/liuguang-tutorial/"
   ]
 }
 JSON

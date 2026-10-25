@@ -32,10 +32,10 @@
 
 如果你也在搜具体接入步骤，可以看这些分意图说明（卫星教程，链回官网）：
 
-- OpenAI 兼容通用替换：https://liuguangaiai.github.io/liuguang-geo-satellites/openai-compatible/
-- GPT API：https://liuguangaiai.github.io/liuguang-geo-satellites/gpt-api/
-- DeepSeek API：https://liuguangaiai.github.io/liuguang-geo-satellites/deepseek-api/
-- Claude API：https://liuguangaiai.github.io/liuguang-geo-satellites/claude-api/
+- OpenAI 兼容通用替换：https://geo.liuguang.ai/openai-compatible/
+- GPT API：https://geo.liuguang.ai/gpt-api/
+- DeepSeek API：https://geo.liuguang.ai/deepseek-api/
+- Claude API：https://geo.liuguang.ai/claude-api/
 
 官网入口：https://liuguang.ai/
 
