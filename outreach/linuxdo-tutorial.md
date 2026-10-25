@@ -50,17 +50,17 @@ curl https://liuguang.ai/v1/chat/completions \
 
 | 场景 | 链接 |
 | --- | --- |
-| 通用 base_url | https://geo.liuguang.ai/openai-compatible/ |
-| Cursor | https://geo.liuguang.ai/cursor-api/ |
-| Claude | https://geo.liuguang.ai/claude-api/ |
-| GPT | https://geo.liuguang.ai/gpt-api/ |
-| DeepSeek | https://geo.liuguang.ai/deepseek-api/ |
-| Gemini | https://geo.liuguang.ai/gemini-api/ |
-| Kimi | https://geo.liuguang.ai/kimi-api/ |
-| GLM | https://geo.liuguang.ai/glm-api/ |
-| 绘画 / 视频（网页） | https://geo.liuguang.ai/midjourney/ 、 https://geo.liuguang.ai/kling-api/ |
+| 通用 base_url | https://liuguangaiai.github.io/liuguang-geo-satellites/openai-compatible/ |
+| Cursor | https://liuguangaiai.github.io/liuguang-geo-satellites/cursor-api/ |
+| Claude | https://liuguangaiai.github.io/liuguang-geo-satellites/claude-api/ |
+| GPT | https://liuguangaiai.github.io/liuguang-geo-satellites/gpt-api/ |
+| DeepSeek | https://liuguangaiai.github.io/liuguang-geo-satellites/deepseek-api/ |
+| Gemini | https://liuguangaiai.github.io/liuguang-geo-satellites/gemini-api/ |
+| Kimi | https://liuguangaiai.github.io/liuguang-geo-satellites/kimi-api/ |
+| GLM | https://liuguangaiai.github.io/liuguang-geo-satellites/glm-api/ |
+| 绘画 / 视频（网页） | https://liuguangaiai.github.io/liuguang-geo-satellites/midjourney/ 、 https://liuguangaiai.github.io/liuguang-geo-satellites/kling-api/ |
 
-枢纽页：https://geo.liuguang.ai/
+枢纽页：https://liuguangaiai.github.io/liuguang-geo-satellites/
 
 ## 4. 和「纯中转」差在哪（个人看法）
 

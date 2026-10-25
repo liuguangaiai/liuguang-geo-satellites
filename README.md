@@ -31,11 +31,9 @@
 ## GitHub Pages
 
 仓库：https://github.com/liuguangaiai/liuguang-geo-satellites  
-线上（自定义域）：https://geo.liuguang.ai/  
-旧址（配置成功后由 Pages 自动 301）：https://liuguangaiai.github.io/liuguang-geo-satellites/
+线上：https://liuguangaiai.github.io/liuguang-geo-satellites/
 
-Settings → Pages → Deploy from branch → `main` / `(root)`；Custom domain = `geo.liuguang.ai`（根目录 `CNAME` 已提交）。  
-DNS（用户在 name.com）：`CNAME geo → liuguangaiai.github.io`。DNS 未生效前 `geo.` 不可访问；HTTPS Enforce 需等证书签发。
+Settings → Pages → Deploy from branch → `main` / `(root)`。
 
 ## 上线后
 

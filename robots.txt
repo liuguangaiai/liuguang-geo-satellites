@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://geo.liuguang.ai/sitemap.xml
+Sitemap: https://liuguangaiai.github.io/liuguang-geo-satellites/sitemap.xml
